@@ -5,3 +5,6 @@ Hit: Player draws another card. If this card causes the player's total points to
 Double: Player doubles his bet and gets one, and only one, more card.
 
 If both the player and dealer bust, nobody wins and none of the players money is lost.
+
+Total money you start with is hard coded in, as well as the bet amount each round.
+The ability to change this ingame has yet to be added.
