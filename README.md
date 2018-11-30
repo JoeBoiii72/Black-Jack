@@ -8,4 +8,6 @@ If both the player and dealer bust, nobody wins and none of the players money is
 
 Total money you start with is hard coded in, as well as the bet amount each round.
 The ability to change this ingame has yet to be added.
+
+
 ![alt text](https://github.com/JoeBoiii72/Black-Jack/blob/master/Capture.PNG)
